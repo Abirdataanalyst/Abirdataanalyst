@@ -2,13 +2,13 @@
 
 **LLM Finetuning | Implementing RAG | Making Autonomus AI Agents | Using MCP | Currently Learning Reinforcement Learning**
   
-I want to become one of the best in AI by **solving real-world problems** that make a difference. I believe impact matters more than degrees — and I prove that every day by **building, experimenting, and sharing.**
+I want to become one of the best in AI by **solving real-world problems** that make a difference. I believe impact matters more than certificate — and I prove that every day by **building, experimenting, and sharing.**
 
 ---
 
 ## 📢 What I’m Doing Right Now  
 
-- 🏫 Pursuing a degree of Data Science & Artificial Intelligence at **Indian Institute of Technology, Guwahati (IITG)**
+- 🏫 Pursuing a degree in Data Science & Artificial Intelligence at **Indian Institute of Technology, Guwahati (IITG)**
 - 💼 Actively searching for opportunities in **AI/Agentic AI** to grow, learn, and contribute.
 - 🛠️ Building **AI side projects** focused on real-world problem solving.  
 - 📖 Continuously learning — not just theory, but applying it in projects that matter.  
